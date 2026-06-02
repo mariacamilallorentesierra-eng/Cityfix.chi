@@ -5,9 +5,9 @@ Nombre del estudiante: Duvan Rodriguez
 
 ## Verificaciones realizadas
 
-- docker compose up ⚠️
-- Aplicación ejecutándose ❌
-- Pruebas Jest ejecutadas ❌
+- docker compose up: No
+- Aplicación ejecutándose: No
+- Pruebas Jest ejecutadas: no
 
 ## Resultado
 
